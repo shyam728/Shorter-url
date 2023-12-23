@@ -1,4 +1,4 @@
-Certainly! Here's a simple README file template for a URL shortening API project on GitHub:
+
 
 ```markdown
 # ShortyAPI - URL Shortening API
