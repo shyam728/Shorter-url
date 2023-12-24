@@ -1,7 +1,6 @@
 
 
-```markdown
-# ShortyAPI - URL Shortening API
+# Shorter-url - URL Shortening API
 
 ShortyAPI is a simple URL shortening API that allows you to create shortened versions of long URLs. This project is designed to be easy to set up and use.
 
@@ -54,10 +53,10 @@ npm start
 
 ### API Endpoints
 
-- **Shorten a URL:**
+- **Shorter a URL:**
 
  
-## shortURl
+## shorter-url
 
   # for testing 
   -> POST MAN
